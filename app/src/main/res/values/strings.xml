@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evolution AOD</string>
+    <string name="service_notification_title">Evolution AOD</string>
+    <string name="service_notification_text">AOD 智能管理服务正在运行</string>
+</resources>
