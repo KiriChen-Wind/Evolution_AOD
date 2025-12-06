@@ -1,9 +1,7 @@
 # Evolution_AOD
 Make your Android Aod Better！
 
-让你的类原生AOD像HyperOS一样智能。
-
-
+让你的类原生AOD像HyperOS一样智能。\
 在 Xiaomi 14，DerpFest Android 16 上测试通过。
 
 
