@@ -1,5 +1,5 @@
 # Evolution_AOD
-Make your Android Aod Better！\
+Make your Android AOD Better！\
 让你的类原生AOD像HyperOS一样智能。
 
 
