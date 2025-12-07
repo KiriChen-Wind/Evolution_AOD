@@ -4,6 +4,7 @@ Make your Android AOD Better！\
 
 
 在 Xiaomi 14，DerpFest Android 16 上测试通过。
+理论支持所有 类原生 Android 14 - 16 
 
 
 为 AOD 设置口袋、闲置、暗光场景下关闭。\
